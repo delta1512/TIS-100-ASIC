@@ -1,0 +1,9 @@
+Subsystems and parts of the circuit:
+	Comparator (JEZ, JNZ, JLZ, JGZ). Status: Design complete
+	SWP module. Status: Not initiated
+	Communication protocol handler. Status: In development
+	Internal bus. Status: Conceptualised
+	ALU block diagram. Status: Not initiated
+	RAM node. Status: Not initiated
+	Stack node. Status: Not initiated
+	Display node. Status: Not initiated
