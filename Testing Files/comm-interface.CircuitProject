@@ -2,7 +2,7 @@
 <lc:CircuitProject xmlns:lc="http://LogicCircuit.net/2.0.0.7/CircuitProject.xsd">
 	<lc:Project>
 		<lc:ProjectId>b5b20dc3-8fea-442e-9d0b-369992618a6b</lc:ProjectId>
-		<lc:LogicalCircuitId>4971ccaa-573b-4da7-bd7c-726dc138e3d4</lc:LogicalCircuitId>
+		<lc:LogicalCircuitId>82cf2e71-ac2a-4d43-b599-6d17238a4609</lc:LogicalCircuitId>
 	</lc:Project>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>4971ccaa-573b-4da7-bd7c-726dc138e3d4</lc:LogicalCircuitId>
@@ -17,7 +17,7 @@
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>82cf2e71-ac2a-4d43-b599-6d17238a4609</lc:LogicalCircuitId>
 		<lc:Name>Test of concept</lc:Name>
-		<lc:Notation>Circuit1</lc:Notation>
+		<lc:Notation>Main</lc:Notation>
 	</lc:LogicalCircuit>
 	<lc:Pin>
 		<lc:PinId>b963fb9a-9ba5-4de2-b795-0638f20d4681</lc:PinId>
@@ -80,7 +80,6 @@
 	</lc:Pin>
 	<lc:Constant>
 		<lc:ConstantId>979897db-819a-4908-b5bc-f08c87ea58d0</lc:ConstantId>
-		<lc:Value>1</lc:Value>
 	</lc:Constant>
 	<lc:Constant>
 		<lc:ConstantId>4aa986e1-55b6-4fcf-8be5-ef35d9ec6050</lc:ConstantId>
@@ -2057,4 +2056,76 @@
 		<lc:X2>32</lc:X2>
 		<lc:Y2>14</lc:Y2>
 	</lc:Wire>
+	<lc:TextNote>
+		<lc:TextNoteId>9b53fbed-1bd1-4b94-87cd-0dd922fc2d77</lc:TextNoteId>
+		<lc:LogicalCircuitId>ec19af83-10d5-4f97-bde1-43a0cb8154b6</lc:LogicalCircuitId>
+		<lc:X>29</lc:X>
+		<lc:Y>2</lc:Y>
+		<lc:Width>3</lc:Width>
+		<lc:Height>2</lc:Height>
+		<lc:Note>&lt;FlowDocument PagePadding="5,0,5,0" AllowDrop="True" NumberSubstitution.CultureSource="User" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;&lt;Paragraph&gt;Read&lt;/Paragraph&gt;&lt;/FlowDocument&gt;</lc:Note>
+	</lc:TextNote>
+	<lc:TextNote>
+		<lc:TextNoteId>f43666a9-79f2-4a81-bf2c-e18eac8f8bb1</lc:TextNoteId>
+		<lc:LogicalCircuitId>ec19af83-10d5-4f97-bde1-43a0cb8154b6</lc:LogicalCircuitId>
+		<lc:X>11</lc:X>
+		<lc:Y>3</lc:Y>
+		<lc:Width>3</lc:Width>
+		<lc:Height>2</lc:Height>
+		<lc:Note>&lt;FlowDocument PagePadding="5,0,5,0" AllowDrop="True" NumberSubstitution.CultureSource="User" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;&lt;Paragraph TextAlignment="Right"&gt;Read&lt;/Paragraph&gt;&lt;/FlowDocument&gt;</lc:Note>
+	</lc:TextNote>
+	<lc:TextNote>
+		<lc:TextNoteId>78d51f37-a922-40c5-9116-8c9bb6d0c56d</lc:TextNoteId>
+		<lc:LogicalCircuitId>ec19af83-10d5-4f97-bde1-43a0cb8154b6</lc:LogicalCircuitId>
+		<lc:X>29</lc:X>
+		<lc:Y>4</lc:Y>
+		<lc:Width>3</lc:Width>
+		<lc:Height>2</lc:Height>
+		<lc:Note>&lt;FlowDocument PagePadding="5,0,5,0" AllowDrop="True" NumberSubstitution.CultureSource="User" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;&lt;Paragraph&gt;Write&lt;/Paragraph&gt;&lt;/FlowDocument&gt;</lc:Note>
+	</lc:TextNote>
+	<lc:TextNote>
+		<lc:TextNoteId>5ab7a939-0370-4816-a7dc-0587a5a97b81</lc:TextNoteId>
+		<lc:LogicalCircuitId>ec19af83-10d5-4f97-bde1-43a0cb8154b6</lc:LogicalCircuitId>
+		<lc:X>11</lc:X>
+		<lc:Y>5</lc:Y>
+		<lc:Width>3</lc:Width>
+		<lc:Height>2</lc:Height>
+		<lc:Note>&lt;FlowDocument PagePadding="5,0,5,0" AllowDrop="True" NumberSubstitution.CultureSource="User" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;&lt;Paragraph TextAlignment="Right"&gt;Write&lt;/Paragraph&gt;&lt;/FlowDocument&gt;</lc:Note>
+	</lc:TextNote>
+	<lc:TextNote>
+		<lc:TextNoteId>73abd762-fe9f-450a-95d1-669535388c94</lc:TextNoteId>
+		<lc:LogicalCircuitId>ec19af83-10d5-4f97-bde1-43a0cb8154b6</lc:LogicalCircuitId>
+		<lc:X>30</lc:X>
+		<lc:Y>14</lc:Y>
+		<lc:Width>4</lc:Width>
+		<lc:Height>2</lc:Height>
+		<lc:Note>&lt;FlowDocument PagePadding="5,0,5,0" AllowDrop="True" NumberSubstitution.CultureSource="User" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;&lt;Paragraph&gt;Feedback&lt;/Paragraph&gt;&lt;/FlowDocument&gt;</lc:Note>
+	</lc:TextNote>
+	<lc:TextNote>
+		<lc:TextNoteId>2b0330d8-a5c4-4f9a-a53b-0f204f0c6484</lc:TextNoteId>
+		<lc:LogicalCircuitId>ec19af83-10d5-4f97-bde1-43a0cb8154b6</lc:LogicalCircuitId>
+		<lc:X>9</lc:X>
+		<lc:Y>14</lc:Y>
+		<lc:Width>4</lc:Width>
+		<lc:Height>2</lc:Height>
+		<lc:Note>&lt;FlowDocument PagePadding="5,0,5,0" AllowDrop="True" NumberSubstitution.CultureSource="User" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;&lt;Paragraph TextAlignment="Right"&gt;Feedback&lt;/Paragraph&gt;&lt;/FlowDocument&gt;</lc:Note>
+	</lc:TextNote>
+	<lc:TextNote>
+		<lc:TextNoteId>2ca25556-ade7-4092-9aa6-b7aac8ab7500</lc:TextNoteId>
+		<lc:LogicalCircuitId>ec19af83-10d5-4f97-bde1-43a0cb8154b6</lc:LogicalCircuitId>
+		<lc:X>30</lc:X>
+		<lc:Y>19</lc:Y>
+		<lc:Width>3</lc:Width>
+		<lc:Height>2</lc:Height>
+		<lc:Note>&lt;FlowDocument PagePadding="5,0,5,0" AllowDrop="True" NumberSubstitution.CultureSource="User" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;&lt;Paragraph&gt;Device&lt;/Paragraph&gt;&lt;/FlowDocument&gt;</lc:Note>
+	</lc:TextNote>
+	<lc:TextNote>
+		<lc:TextNoteId>92b01b92-07f9-4858-a1d6-f77478c5fb95</lc:TextNoteId>
+		<lc:LogicalCircuitId>ec19af83-10d5-4f97-bde1-43a0cb8154b6</lc:LogicalCircuitId>
+		<lc:X>9</lc:X>
+		<lc:Y>19</lc:Y>
+		<lc:Width>3</lc:Width>
+		<lc:Height>2</lc:Height>
+		<lc:Note>&lt;FlowDocument PagePadding="5,0,5,0" AllowDrop="True" NumberSubstitution.CultureSource="User" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"&gt;&lt;Paragraph TextAlignment="Right"&gt;Device&lt;/Paragraph&gt;&lt;/FlowDocument&gt;</lc:Note>
+	</lc:TextNote>
 </lc:CircuitProject>
