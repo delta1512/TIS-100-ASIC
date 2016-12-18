@@ -1,17 +1,34 @@
-Subsystems:
-	Basic node block diagram. Status: In development
-	Internal memory:
-		Architecture. Status: Not initiated
-		Word seperation and instruction decoding. Status: Conceptualised	
-	Comparator (JEZ, JNZ, JLZ, JGZ). Status: Design complete
+**********************************************************************************************
+TIS-100 Subsystems:
+	Basic node block diagram. Status: Complete (yet can be built upon)
+----------------------------------------------------------------------------------------------
+	Internal memory: Status: Not Initiated
+		Architecture. Status: Not Initiated
+		Word seperation and instruction decoding. Status: Conceptualised
+----------------------------------------------------------------------------------------------
+	Comparator (JEZ, JNZ, JLZ, JGZ): Status: Complete
+----------------------------------------------------------------------------------------------
 	SWP module. Status: Not initiated
-	Communication protocol handler. Status: In development
+----------------------------------------------------------------------------------------------
+	Communication protocol handler: Status: Waiting for proper testing environment
+----------------------------------------------------------------------------------------------
 	Internal bus:
-		Bus Control. Status: Conceptualised
-	ALU:
-		ALU functions. Status: Conceptualised
-		ALU IC. Status: Not initiated
-	RAM node. Status: Not initiated
-	Stack node:
-		Architecture. Status: Conceptualised
-	Display node. Status: Not initiated
+		Bus Control: Conceptualised
+----------------------------------------------------------------------------------------------
+	ALU: Status: Not Initiated
+		ALU functions: Conceptualised
+----------------------------------------------------------------------------------------------
+**********************************************************************************************
+Stack node: Status: In Development
+	Architecture. Status: Conceptualised
+----------------------------------------------------------------------------------------------
+	Stack Memory Module: Status: Complete (yet can be built upon)
+----------------------------------------------------------------------------------------------
+	Stack Node: Status: In Development
+		Communication implementation: Not Initiated
+		Queue Handling: Not Initiated
+**********************************************************************************************
+RAM node: Status: Not initiated
+**********************************************************************************************
+Display node: Status: Not initiated
+**********************************************************************************************
