@@ -15,14 +15,16 @@ TIS-100 Subsystems:
 	Internal bus:
 		Bus Control: Conceptualised
 ----------------------------------------------------------------------------------------------
-	ALU: Status: Not Initiated
-		ALU functions: Conceptualised
+	ALU: Status: In Development
+		Functions: Conceptualised
+		Architecture: On Paper
 ----------------------------------------------------------------------------------------------
 **********************************************************************************************
-Stack node: Status: In Development
-	Architecture. Status: Conceptualised
+Stack node: Status: Halted Development
+	Architecture. Status: Complete
+	Fix Output Logic: Pending
 ----------------------------------------------------------------------------------------------
-	Stack Memory Module: Status: Complete (yet can be built upon)
+	Stack Memory Module: Status: Complete
 ----------------------------------------------------------------------------------------------
 	Stack Node: Status: In Development
 		Communication implementation: Not Initiated
