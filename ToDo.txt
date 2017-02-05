@@ -15,9 +15,9 @@ TIS-100 Subsystems:
 	Internal bus:
 		Bus Control: Conceptualised
 ----------------------------------------------------------------------------------------------
-	ALU: Status: In Development
-		Functions: In Development
-		Architecture: In Development
+	ALU: Status: Complete
+		Functions: Complete
+		Architecture: Complete
 ----------------------------------------------------------------------------------------------
 **********************************************************************************************
 Stack node: Status: Halted Development
